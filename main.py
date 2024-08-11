@@ -28,3 +28,4 @@ raio = 2.2
 area_do_circulo = pi * raio * raio
 
 print("A área do circulo é =", area_do_circulo, "cm2")
+print("Teste de commit no GitHub")
